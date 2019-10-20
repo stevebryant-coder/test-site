@@ -13,7 +13,7 @@ html,
 }
 
 #navbar {
-    background-color: lightyellow;
+    background-color: white;
 
     flex: 0.3;
     display: flex;
